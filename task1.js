@@ -27,7 +27,7 @@ const biodata = {
       name: "Universitas Lampung",
       yearIn: 2013,
       yearOut: 2017,
-      major: "Fisiks",
+      major: "Fisika",
     },
   ],
   skills: [
@@ -43,6 +43,3 @@ const biodata = {
   interestInCoding: true,
 };
 
-// console.log(biodata);
-// console.log(biodata.name);
-// console.log(biodata.schoolList[2]);
