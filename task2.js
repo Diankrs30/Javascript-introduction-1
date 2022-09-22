@@ -28,4 +28,4 @@ function rataRataUN(mtk, bahasaIndonesia, bahasaInggris, ipa) {
   return "Grade = E";
 }
 // Menampilkan hasil rata-rata UN dan grade nya
-console.log(rataRataUN(80, 90, 89, 69));
+console.log(rataRataUN(80,90,89,69));

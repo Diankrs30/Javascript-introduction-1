@@ -12,5 +12,5 @@ function printSegitiga(panjang) {
   }
   return hasil;
 }
-console.log(printSegitiga(true));
+console.log(printSegitiga(5));
 
