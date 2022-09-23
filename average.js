@@ -1,5 +1,5 @@
 function rataRataUN(mtk, bahasaIndonesia, bahasaInggris, ipa) {
-// validasi semua nilai harus 
+// validasi semua nilai harus disi
   if (
     mtk == null ||
     bahasaIndonesia == null ||

@@ -17,7 +17,7 @@ let data = {
 let addData = {
     name: "Dian Kartika Ratna Sari",
     email: "diankrs30@gmail.com",
-    hobby: "Watching"
+    hobby: ["Watching", "Cooking"]
 }
 
 let newData = {...data, ...addData};

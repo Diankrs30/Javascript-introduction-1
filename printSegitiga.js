@@ -13,4 +13,3 @@ function printSegitiga(panjang) {
   return hasil;
 }
 console.log(printSegitiga(5));
-
